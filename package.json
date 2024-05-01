@@ -1,7 +1,7 @@
 {
   "name": "express",
   "description": "Fast, unopinionated, minimalist web framework",
-  "version": "4.19.2",
+  "version": "4.19.1",
   "author": "Nisala Kalupahana",
   "contributors": [
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
