@@ -3,15 +3,6 @@
   "description": "Fast, unopinionated, minimalist web framework",
   "version": "4.19.1",
   "author": "Nisala Kalupahana",
-  "contributors": [
-    "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
-    "Ciaran Jessup <ciaranj@gmail.com>",
-    "Douglas Christopher Wilson <doug@somethingdoug.com>",
-    "Guillermo Rauch <rauchg@gmail.com>",
-    "Jonathan Ong <me@jongleberry.com>",
-    "Roman Shtylman <shtylman+expressjs@gmail.com>",
-    "Young Jae Sim <hanul@hanul.me>"
-  ],
   "license": "MIT",
   "repository": "expressjs/express",
   "homepage": "http://expressjs.com/",
